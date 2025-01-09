@@ -2,12 +2,12 @@
 
 
 ## About
-Author: Laiba Khan
-Game name: MathQuizAdventure Game
-Game platform: Windows
-Number of players: single player, Two players
-itch.io page: https://laiba-khan.itch.io/memory-mastermind
-itch.io page: https://laiba-khan.itch.io/mathquizadventure
+- Author: Laiba Khan
+- Game name: MathQuizAdventure Game
+- Game platform: Windows
+- Number of players: single player, Two players
+- itch.io page: https://laiba-khan.itch.io/memory-mastermind
+- itch.io page: https://laiba-khan.itch.io/mathquizadventure
 
 ## Technology Stack 
 - **Language**: C#
