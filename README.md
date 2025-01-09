@@ -2,12 +2,11 @@
 
 
 ## About
-- Author: Laiba Khan
-- Game name: MathQuizAdventure Game
-- Game platform: Windows
-- Number of players: single player, Two players
-- itch.io page: https://laiba-khan.itch.io/memory-mastermind
-- itch.io page: https://laiba-khan.itch.io/mathquizadventure
+- **Author**: Laiba Khan
+- **Game name**: MathQuizAdventure Game
+- **Game platform**: Windows
+- **Number of players**: single player, Two players
+- **itch.io page**: https://laiba-khan.itch.io/mathquizadventure
 
 ## Technology Stack 
 - **Language**: C#
@@ -39,7 +38,7 @@ The game generates random math puzzles based on the selected difficulty level. P
 - **question generation**: Generate random math questions according to the difficulty level.
 
 ## Game outline
-![Game Outline]https://github.com/lakhan923/ohjelmiston-toteutusprojekti/blob/main/mathquizadventue_outline.JPG
+![Game Outline](https://github.com/lakhan923/ohjelmiston-toteutusprojekti/raw/main/mathquizadventue_outline.JPG)
 
 ## Deployment
 - **Publish as an Executable**: I will Use Visual Studio's publishing tools to create an .exe file for the game.
