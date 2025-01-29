@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|c:\\users\\laaai\\desktop\\mathquizadventure\\mathquizadventure\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|solutionrelative:mathquizadventure\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|c:\\users\\laaai\\desktop\\mathquizadventure\\mathquizadventure\\database\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|solutionrelative:mathquizadventure\\database\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|c:\\users\\laaai\\desktop\\mathquizadventure\\mathquizadventure\\difficultyselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|solutionrelative:mathquizadventure\\difficultyselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|c:\\users\\laaai\\desktop\\mathquizadventure\\mathquizadventure\\difficultyselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|solutionrelative:mathquizadventure\\difficultyselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|c:\\users\\laaai\\desktop\\mathquizadventure\\mathquizadventure\\leaderboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|solutionrelative:mathquizadventure\\leaderboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|c:\\users\\laaai\\desktop\\mathquizadventure\\mathquizadventure\\gamemodeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|solutionrelative:mathquizadventure\\gamemodeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|c:\\users\\laaai\\desktop\\mathquizadventure\\mathquizadventure\\gamemodeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|solutionrelative:mathquizadventure\\gamemodeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|c:\\users\\laaai\\desktop\\mathquizadventure\\mathquizadventure\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED57EB57-F6AA-4EDD-B63E-80396A0A04CC}|MathQuizAdventure\\MathQuizAdventure.csproj|solutionrelative:mathquizadventure\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\Form1.cs",
+              "RelativeDocumentMoniker": "MathQuizAdventure\\Form1.cs",
+              "ToolTip": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\Form1.cs [Design]",
+              "RelativeToolTip": "MathQuizAdventure\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:42:47.429Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameModeSelectionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\GameModeSelectionForm.cs",
+              "RelativeDocumentMoniker": "MathQuizAdventure\\GameModeSelectionForm.cs",
+              "ToolTip": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\GameModeSelectionForm.cs [Design]",
+              "RelativeToolTip": "MathQuizAdventure\\GameModeSelectionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:46:24.611Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaderboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\LeaderboardForm.cs",
+              "RelativeDocumentMoniker": "MathQuizAdventure\\LeaderboardForm.cs",
+              "ToolTip": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\LeaderboardForm.cs [Design]",
+              "RelativeToolTip": "MathQuizAdventure\\LeaderboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:46:30.706Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameModeSelectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\GameModeSelectionForm.cs",
+              "RelativeDocumentMoniker": "MathQuizAdventure\\GameModeSelectionForm.cs",
+              "ToolTip": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\GameModeSelectionForm.cs",
+              "RelativeToolTip": "MathQuizAdventure\\GameModeSelectionForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:46:52.783Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DifficultySelectionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\DifficultySelectionForm.cs",
+              "RelativeDocumentMoniker": "MathQuizAdventure\\DifficultySelectionForm.cs",
+              "ToolTip": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\DifficultySelectionForm.cs [Design]",
+              "RelativeToolTip": "MathQuizAdventure\\DifficultySelectionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:47:27.721Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\Form1.cs",
+              "RelativeDocumentMoniker": "MathQuizAdventure\\Form1.cs",
+              "ToolTip": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\Form1.cs",
+              "RelativeToolTip": "MathQuizAdventure\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:43:47.23Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DifficultySelectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\DifficultySelectionForm.cs",
+              "RelativeDocumentMoniker": "MathQuizAdventure\\DifficultySelectionForm.cs",
+              "ToolTip": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\DifficultySelectionForm.cs",
+              "RelativeToolTip": "MathQuizAdventure\\DifficultySelectionForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:47:45.868Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\Database\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "MathQuizAdventure\\Database\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\laaai\\Desktop\\MathQuizAdventure\\MathQuizAdventure\\Database\\DatabaseConnection.cs",
+              "RelativeToolTip": "MathQuizAdventure\\Database\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:47:57.724Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

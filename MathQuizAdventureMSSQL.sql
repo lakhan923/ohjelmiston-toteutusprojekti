@@ -1,0 +1,14 @@
+﻿USE MathQuiz;
+SELECT * FROM Scores;
+
+
+DROP TABLE IF EXISTS Scores;
+
+CREATE TABLE Scores (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    PlayerName NVARCHAR(100) NOT NULL,
+    Score INT NOT NULL,
+    DifficultyLevel NVARCHAR(20),
+    GameMode NVARCHAR(20),
+    Timestamp DATETIME DEFAULT GETDATE()
+);
